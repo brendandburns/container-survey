@@ -62,3 +62,14 @@ The following questions will be used for the next monthly survey:
   * Mesos
   * Hashicorp Nomad
   * Other
+
+## How many machines do you have running containers?
+  * < 5
+  * 6 - 10
+  * 11 - 25
+  * 26 - 50
+  * 50 - 100
+  * > 100
+
+## What are the challenges of using containers?
+*Freetext reply*
